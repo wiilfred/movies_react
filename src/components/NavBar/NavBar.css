@@ -1,0 +1,22 @@
+.nav_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(77, 77, 231);
+    padding: 0 10px;
+  }
+  .wookie_search{
+    background: #111;
+    color: white;
+  }
+.search_holder{
+    display: flex;
+    align-items: center;
+
+}  
+.search_holder input{
+    background: none;
+    outline-width: 0;
+    border: none;
+    font-weight: 600;
+}
